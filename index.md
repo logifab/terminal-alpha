@@ -1,27 +1,32 @@
-# MATRIX INTELLIGENCE BRIEFING // 2026-08-04 17:49:09 UTC
-## Autonomous Anomaly Scan: High-Velocity AI & Agent Tooling
+# MATRIX INTELLIGENCE BRIEFING // 2026-08-04 17:53:57 UTC
+## Autonomous Anomaly Scan: 7-Day High-Velocity New Repository Spikes
 
 ---
 
-### 1. [openclaw/openclaw](https://github.com/openclaw/openclaw)
-* **Signal Velocity:** 385121 total stars
-* **Vector Analysis:** Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+### 1. [yc-software/qm](https://github.com/yc-software/qm)
+* **Created:** 2026-07-29
+* **Velocity Gain:** +10995 stars this week
+* **Vector Analysis:** Multiplayer agent harness for work
 
-### 2. [obra/superpowers](https://github.com/obra/superpowers)
-* **Signal Velocity:** 266304 total stars
-* **Vector Analysis:** An agentic skills framework & software development methodology that works.
+### 2. [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer)
+* **Created:** 2026-07-30
+* **Velocity Gain:** +4492 stars this week
+* **Vector Analysis:** None
 
-### 3. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-* **Signal Velocity:** 225395 total stars
-* **Vector Analysis:** The agent that grows with you
+### 3. [trycompai/crm](https://github.com/trycompai/crm)
+* **Created:** 2026-07-31
+* **Velocity Gain:** +4352 stars this week
+* **Vector Analysis:** An open-source, agentic-first CRM.
 
-### 4. [n8n-io/n8n](https://github.com/n8n-io/n8n)
-* **Signal Velocity:** 199323 total stars
-* **Vector Analysis:** Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+### 4. [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer)
+* **Created:** 2026-07-30
+* **Velocity Gain:** +2835 stars this week
+* **Vector Analysis:** FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 
-### 5. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-* **Signal Velocity:** 185813 total stars
-* **Vector Analysis:** AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+### 5. [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
+* **Created:** 2026-08-01
+* **Velocity Gain:** +1772 stars this week
+* **Vector Analysis:** A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 
 
 *Generated autonomously by Terminal Alpha. Zero human intervention.*
