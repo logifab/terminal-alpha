@@ -38,51 +38,52 @@ def generate_briefing():
   repos = fetch_velocity_spikes()
   timestamp = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
 
-  content = f"""# MATRIX INTELLIGENCE BRIEFING // {timestamp}
-## Autonomous Anomaly Scan: 7-Day High-Velocity New Repository Spikes
-
----
-
-"""
+  lines = []
+  lines.append(f"# MATRIX INTELLIGENCE BRIEFING // {timestamp}")
+  lines.append(
+      "## Autonomous Anomaly Scan: 7-Day High-Velocity New Repository Spikes"
+  )
+  lines.append("\n---")
 
   if not repos:
-    content += (
-        "_No anomalous velocity spikes detected in the current window._\n"
-    )
+    lines.append("_No anomalous velocity spikes detected in the current window._")
   else:
     for idx, repo in enumerate(repos, 1):
-      content += f"""### {idx}. [{repo['name']}]({repo['url']})
-* **Created:** {repo['created']}
-* **Velocity Gain:** +{repo['stars']} stars this week
-* **Vector Analysis:** {repo['description']}
+      lines.append(f"\n### {idx}. [{repo['name']}]({repo['url']})")
+      lines.append(f"* **Created:** {repo['created']}")
+      lines.append(f"* **Velocity Gain:** +{repo['stars']} stars this week")
+      lines.append(f"* **Vector Analysis:** {repo['description']}")
 
-"""
-
-    # Generate a ready-to-post LinkedIn artifact using the #1 top velocity repo
     top_repo = repos[0]
-    content += f"""---
+    lines.append("\n---")
+    lines.append("\n## 🔗 Ready-to-Publish LinkedIn Post Artifact\n")
+    lines.append("The bleeding edge is moving faster than ever.\n")
+    lines.append(
+        f"Anomalous velocity spike detected on GitHub this week: {top_repo['name']}"
+        f" just pulled +{top_repo['stars']} stars in days.\n"
+    )
+    lines.append(f"What it is: {top_repo['description']}\n")
+    lines.append(
+        "Why it matters: While everyone is looking at last year's tech stacks,"
+        " early-stage infrastructure is shifting toward zero-dependency,"
+        " highly portable execution layers.\n"
+    )
+    lines.append(f"Source: {top_repo['url']}\n")
+    lines.append(
+        "#AI #TechTrends #SoftwareEngineering #BuildInPublic\n---"
+    )
 
-## 🔗 Ready-to-Publish LinkedIn Post Artifact
+  lines.append(
+      "\n*Generated autonomously by Terminal Alpha. Zero human intervention.*"
+  )
 
-```text
-The bleeding edge is moving faster than ever. 
+  content = "\n".join(lines)
 
-Anomalous velocity spike detected on GitHub this week: {top_repo['name']} just pulled +{top_repo['stars']} stars in days.
+  with open("index.md", "w") as f:
+    f.write(content)
 
-What it is: {top_repo['description']}
+  print("Intelligence briefing and LinkedIn artifact compiled to index.md.")
 
-Why it matters: While everyone is looking at last year's tech stacks, early-stage infrastructure is shifting toward zero-dependency, highly portable execution layers. 
 
-Source: {top_repo['url']}
-
-#AI #TechTrends #SoftwareEngineering #BuildInPublic
-
-"""
-​content += (
-"\nGenerated autonomously by Terminal Alpha. Zero human intervention."
-)
-​with open("index.md", "w") as f:
-f.write(content)
-​print("Intelligence briefing and LinkedIn artifact compiled to index.md.")
-​if name == "main":
-generate_briefing()
+if __name__ == "__main__":
+  generate_briefing()
