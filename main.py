@@ -3,12 +3,9 @@ import requests
 
 
 def fetch_velocity_spikes():
-  # Calculate date 7 days ago to filter for brand-new repositories only
   seven_days_ago = (
       datetime.datetime.utcnow() - datetime.timedelta(days=7)
   ).strftime("%Y-%m-%d")
-
-  # Query GitHub for new repos created this week, sorted by highest star velocity
   url = f"https://api.github.com/search/repositories?q=created:>{seven_days_ago}+sort:stars-desc&per_page=5"
   headers = {
       "Accept": "application/vnd.github.v3+json",
@@ -61,15 +58,21 @@ def generate_briefing():
 
 """
 
-  content += (
-      "\n*Generated autonomously by Terminal Alpha. Zero human intervention.*"
-  )
+    # Generate a ready-to-post LinkedIn artifact using the #1 top velocity repo
+    top_repo = repos[0]
+    content += f"""---
 
-  with open("index.md", "w") as f:
-    f.write(content)
+## 🔗 Ready-to-Publish LinkedIn Post Artifact
 
-  print("Velocity-filtered intelligence briefing compiled to index.md.")
+```text
+The bleeding edge is moving faster than ever. 
 
+Anomalous velocity spike detected on GitHub this week: {top_repo['name']} just pulled +{top_repo['stars']} stars in days.
 
-if __name__ == "__main__":
-  generate_briefing()
+What it is: {top_repo['description']}
+
+Why it matters: While everyone is looking at last year's tech stacks, early-stage infrastructure is shifting toward zero-dependency, highly portable execution layers. 
+
+Source: {top_repo['url']}
+
+#AI #TechTrends #SoftwareEngineering #BuildInPublic
