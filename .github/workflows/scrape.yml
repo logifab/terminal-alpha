@@ -25,9 +25,12 @@ jobs:
         run: python main.py
 
       - name: Commit and push generated intelligence
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "Terminal Alpha Bot"
           git config --global user.email "bot@terminal.alpha"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add index.md
           git commit -m "Auto-generated daily intelligence briefing" || echo "No changes to commit"
           git push
