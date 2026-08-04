@@ -1,26 +1,27 @@
-# MATRIX INTELLIGENCE BRIEFING // 2026-08-04 17:29:03 UTC
-
-## Autonomous Anomaly Scan: High-Velocity Repositories & Vector Shifts
-
-### 1. [xai-org/grok-build](https://github.com/xai-org/grok-build)
-- **Signal Velocity:** 24107 absolute stars gained.
-- **Vector Analysis:** SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-
-### 2. [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)
-- **Signal Velocity:** 13167 absolute stars gained.
-- **Vector Analysis:** Codex Dream Skin
-
-### 3. [andrewyng/openworker](https://github.com/andrewyng/openworker)
-- **Signal Velocity:** 12717 absolute stars gained.
-- **Vector Analysis:** None
-
-### 4. [yc-software/qm](https://github.com/yc-software/qm)
-- **Signal Velocity:** 10979 absolute stars gained.
-- **Vector Analysis:** Multiplayer agent harness for work
-
-### 5. [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)
-- **Signal Velocity:** 9568 absolute stars gained.
-- **Vector Analysis:** Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
+# MATRIX INTELLIGENCE BRIEFING // 2026-08-04 17:49:09 UTC
+## Autonomous Anomaly Scan: High-Velocity AI & Agent Tooling
 
 ---
+
+### 1. [openclaw/openclaw](https://github.com/openclaw/openclaw)
+* **Signal Velocity:** 385121 total stars
+* **Vector Analysis:** Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
+### 2. [obra/superpowers](https://github.com/obra/superpowers)
+* **Signal Velocity:** 266304 total stars
+* **Vector Analysis:** An agentic skills framework & software development methodology that works.
+
+### 3. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+* **Signal Velocity:** 225395 total stars
+* **Vector Analysis:** The agent that grows with you
+
+### 4. [n8n-io/n8n](https://github.com/n8n-io/n8n)
+* **Signal Velocity:** 199323 total stars
+* **Vector Analysis:** Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+### 5. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
+* **Signal Velocity:** 185813 total stars
+* **Vector Analysis:** AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
+
 *Generated autonomously by Terminal Alpha. Zero human intervention.*
