@@ -76,3 +76,13 @@ Why it matters: While everyone is looking at last year's tech stacks, early-stag
 Source: {top_repo['url']}
 
 #AI #TechTrends #SoftwareEngineering #BuildInPublic
+
+"""
+​content += (
+"\nGenerated autonomously by Terminal Alpha. Zero human intervention."
+)
+​with open("index.md", "w") as f:
+f.write(content)
+​print("Intelligence briefing and LinkedIn artifact compiled to index.md.")
+​if name == "main":
+generate_briefing()
