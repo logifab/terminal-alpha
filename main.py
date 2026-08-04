@@ -36,7 +36,7 @@ if __name__ == "__main__":
     raw_data = fetch_raw_signals()
     final_output = compile_intelligence_briefing(raw_data)
     
-    # Output to a static file deployed automatically via Vercel/GitHub Pages
+    #  Output to a static file deployed automatically via Vercel/GitHub Pages
     with open("index.md", "w") as f:
         f.write(final_output)
     print("Intelligence briefing compiled and locked.")
