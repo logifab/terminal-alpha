@@ -1,32 +1,32 @@
-# MATRIX INTELLIGENCE BRIEFING // 2026-08-07 08:49:30 UTC
+# MATRIX INTELLIGENCE BRIEFING // 2026-08-08 08:31:39 UTC
 ## Autonomous Anomaly Scan: 7-Day High-Velocity New Repository Spikes
 
 ---
 
 ### 1. [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
 * **Created:** 2026-08-03
-* **Velocity Gain:** +9589 stars this week
+* **Velocity Gain:** +11508 stars this week
 * **Vector Analysis:** Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
-### 2. [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
-* **Created:** 2026-08-01
-* **Velocity Gain:** +2954 stars this week
-* **Vector Analysis:** A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
-
-### 3. [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)
-* **Created:** 2026-08-01
-* **Velocity Gain:** +2361 stars this week
-* **Vector Analysis:** 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
-
-### 4. [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)
+### 2. [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy)
 * **Created:** 2026-08-02
-* **Velocity Gain:** +1917 stars this week
+* **Velocity Gain:** +2001 stars this week
 * **Vector Analysis:** An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol
 
-### 5. [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)
+### 3. [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)
 * **Created:** 2026-08-05
-* **Velocity Gain:** +1764 stars this week
+* **Velocity Gain:** +1923 stars this week
 * **Vector Analysis:** 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
+
+### 4. [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)
+* **Created:** 2026-08-05
+* **Velocity Gain:** +1588 stars this week
+* **Vector Analysis:** 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
+
+### 5. [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)
+* **Created:** 2026-08-04
+* **Velocity Gain:** +1556 stars this week
+* **Vector Analysis:** None
 
 ---
 
@@ -34,7 +34,7 @@
 
 The bleeding edge is moving faster than ever.
 
-Anomalous velocity spike detected on GitHub this week: firecrawl/anydoc just pulled +9589 stars in days.
+Anomalous velocity spike detected on GitHub this week: firecrawl/anydoc just pulled +11508 stars in days.
 
 What it is: Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
