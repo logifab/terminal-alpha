@@ -1,32 +1,32 @@
-# MATRIX INTELLIGENCE BRIEFING // 2026-08-11 08:46:20 UTC
+# MATRIX INTELLIGENCE BRIEFING // 2026-08-12 09:04:43 UTC
 ## Autonomous Anomaly Scan: 7-Day High-Velocity New Repository Spikes
 
 ---
 
-### 1. [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)
-* **Created:** 2026-08-05
-* **Velocity Gain:** +2354 stars this week
-* **Vector Analysis:** 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
-
-### 2. [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill)
-* **Created:** 2026-08-05
-* **Velocity Gain:** +1604 stars this week
-* **Vector Analysis:** 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor
-
-### 3. [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)
+### 1. [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)
 * **Created:** 2026-08-07
-* **Velocity Gain:** +1409 stars this week
+* **Velocity Gain:** +1563 stars this week
 * **Vector Analysis:** let your agent control your phone
 
-### 4. [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)
+### 2. [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion)
 * **Created:** 2026-08-07
-* **Velocity Gain:** +1320 stars this week
+* **Velocity Gain:** +1517 stars this week
 * **Vector Analysis:** Create smooth, responsive interactive web animations.
 
-### 5. [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)
+### 3. [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)
 * **Created:** 2026-08-10
-* **Velocity Gain:** +1224 stars this week
+* **Velocity Gain:** +1490 stars this week
 * **Vector Analysis:** None
+
+### 4. [antirez/h3.c](https://github.com/antirez/h3.c)
+* **Created:** 2026-08-09
+* **Velocity Gain:** +1436 stars this week
+* **Vector Analysis:** MiniMax H3 inference engine for Mac computers
+
+### 5. [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)
+* **Created:** 2026-08-06
+* **Velocity Gain:** +1041 stars this week
+* **Vector Analysis:** AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.
 
 ---
 
@@ -34,13 +34,13 @@
 
 The bleeding edge is moving faster than ever.
 
-Anomalous velocity spike detected on GitHub this week: KKKKhazix/human-writing just pulled +2354 stars in days.
+Anomalous velocity spike detected on GitHub this week: ShawnPana/phone-harness just pulled +1563 stars in days.
 
-What it is: 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
+What it is: let your agent control your phone
 
 Why it matters: While everyone is looking at last year's tech stacks, early-stage infrastructure is shifting toward zero-dependency, highly portable execution layers.
 
-Source: https://github.com/KKKKhazix/human-writing
+Source: https://github.com/ShawnPana/phone-harness
 
 #AI #TechTrends #SoftwareEngineering #BuildInPublic
 ---
