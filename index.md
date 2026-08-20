@@ -1,32 +1,32 @@
-# MATRIX INTELLIGENCE BRIEFING // 2026-08-19 08:27:33 UTC
+# MATRIX INTELLIGENCE BRIEFING // 2026-08-20 08:28:35 UTC
 ## Autonomous Anomaly Scan: 7-Day High-Velocity New Repository Spikes
 
 ---
 
-### 1. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-* **Created:** 2026-08-13
-* **Velocity Gain:** +163723 stars this week
-* **Vector Analysis:** DeepSeek Harness: Everything is a Plugin.
-
-### 2. [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)
-* **Created:** 2026-08-13
-* **Velocity Gain:** +14374 stars this week
-* **Vector Analysis:** 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
-
-### 3. [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
-* **Created:** 2026-08-13
-* **Velocity Gain:** +9515 stars this week
-* **Vector Analysis:** A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-
-### 4. [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)
+### 1. [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)
 * **Created:** 2026-08-14
-* **Velocity Gain:** +6174 stars this week
+* **Velocity Gain:** +6385 stars this week
 * **Vector Analysis:** dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-### 5. [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)
+### 2. [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)
 * **Created:** 2026-08-14
-* **Velocity Gain:** +3605 stars this week
+* **Velocity Gain:** +3657 stars this week
 * **Vector Analysis:** Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
+
+### 3. [yetone/cumora](https://github.com/yetone/cumora)
+* **Created:** 2026-08-17
+* **Velocity Gain:** +2739 stars this week
+* **Vector Analysis:** Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
+
+### 4. [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill)
+* **Created:** 2026-08-18
+* **Velocity Gain:** +2568 stars this week
+* **Vector Analysis:** A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
+
+### 5. [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)
+* **Created:** 2026-08-14
+* **Velocity Gain:** +1349 stars this week
+* **Vector Analysis:** The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
 
 ---
 
@@ -34,13 +34,13 @@
 
 The bleeding edge is moving faster than ever.
 
-Anomalous velocity spike detected on GitHub this week: deepseek-ai/deepseek-harness just pulled +163723 stars in days.
+Anomalous velocity spike detected on GitHub this week: yjh051108/dsh-routing-suite just pulled +6385 stars in days.
 
-What it is: DeepSeek Harness: Everything is a Plugin.
+What it is: dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
 Why it matters: While everyone is looking at last year's tech stacks, early-stage infrastructure is shifting toward zero-dependency, highly portable execution layers.
 
-Source: https://github.com/deepseek-ai/deepseek-harness
+Source: https://github.com/yjh051108/dsh-routing-suite
 
 #AI #TechTrends #SoftwareEngineering #BuildInPublic
 ---
