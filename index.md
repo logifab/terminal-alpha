@@ -1,32 +1,32 @@
-# MATRIX INTELLIGENCE BRIEFING // 2026-09-03 12:25:56 UTC
+# MATRIX INTELLIGENCE BRIEFING // 2026-09-04 12:24:41 UTC
 ## Autonomous Anomaly Scan: 7-Day High-Velocity New Repository Spikes
 
 ---
 
-### 1. [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)
-* **Created:** 2026-08-28
-* **Velocity Gain:** +2334 stars this week
-* **Vector Analysis:** ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
-
-### 2. [Nanako0129/sepia](https://github.com/Nanako0129/sepia)
-* **Created:** 2026-08-28
-* **Velocity Gain:** +1771 stars this week
-* **Vector Analysis:** De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).
-
-### 3. [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop)
-* **Created:** 2026-08-28
-* **Velocity Gain:** +1230 stars this week
-* **Vector Analysis:** 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites
-
-### 4. [cbrock84/headcount](https://github.com/cbrock84/headcount)
-* **Created:** 2026-08-28
-* **Velocity Gain:** +1144 stars this week
-* **Vector Analysis:** An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.
-
-### 5. [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)
+### 1. [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents)
 * **Created:** 2026-09-01
-* **Velocity Gain:** +1129 stars this week
+* **Velocity Gain:** +1811 stars this week
 * **Vector Analysis:** Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
+
+### 2. [rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper)
+* **Created:** 2026-08-29
+* **Velocity Gain:** +1303 stars this week
+* **Vector Analysis:** DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.
+
+### 3. [shadcn-ui/cn](https://github.com/shadcn-ui/cn)
+* **Created:** 2026-08-31
+* **Velocity Gain:** +1041 stars this week
+* **Vector Analysis:** cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.
+
+### 4. [GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service)
+* **Created:** 2026-08-31
+* **Velocity Gain:** +1034 stars this week
+* **Vector Analysis:** Dress AI Sponsor
+
+### 5. [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas)
+* **Created:** 2026-09-02
+* **Velocity Gain:** +992 stars this week
+* **Vector Analysis:** Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
 
 ---
 
@@ -34,13 +34,13 @@
 
 The bleeding edge is moving faster than ever.
 
-Anomalous velocity spike detected on GitHub this week: XiaoDuoYa/codex-with-chatgpt just pulled +2334 stars in days.
+Anomalous velocity spike detected on GitHub this week: anthropics/commerce-agents just pulled +1811 stars in days.
 
-What it is: ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
+What it is: Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.
 
 Why it matters: While everyone is looking at last year's tech stacks, early-stage infrastructure is shifting toward zero-dependency, highly portable execution layers.
 
-Source: https://github.com/XiaoDuoYa/codex-with-chatgpt
+Source: https://github.com/anthropics/commerce-agents
 
 #AI #TechTrends #SoftwareEngineering #BuildInPublic
 ---
