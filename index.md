@@ -1,32 +1,32 @@
-# MATRIX INTELLIGENCE BRIEFING // 2026-09-14 14:37:03 UTC
+# MATRIX INTELLIGENCE BRIEFING // 2026-09-15 13:02:11 UTC
 ## Autonomous Anomaly Scan: 7-Day High-Velocity New Repository Spikes
 
 ---
 
-### 1. [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler)
-* **Created:** 2026-09-08
-* **Velocity Gain:** +1878 stars this week
-* **Vector Analysis:** Lean certificates accompanying Navier-Stokes and Euler results
+### 1. [Chuloo/mural](https://github.com/Chuloo/mural)
+* **Created:** 2026-09-12
+* **Velocity Gain:** +943 stars this week
+* **Vector Analysis:** The language app you eventually delete. A native iPhone companion for learning through conversation.
 
-### 2. [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)
-* **Created:** 2026-09-08
-* **Velocity Gain:** +1669 stars this week
-* **Vector Analysis:** None
-
-### 3. [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)
-* **Created:** 2026-09-08
-* **Velocity Gain:** +1286 stars this week
-* **Vector Analysis:** Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.
-
-### 4. [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)
+### 2. [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo)
 * **Created:** 2026-09-10
-* **Velocity Gain:** +840 stars this week
+* **Velocity Gain:** +894 stars this week
 * **Vector Analysis:** Wish you could bring the iPhone Duo effect to your MacBook?
 
-### 5. [gazijarin/itsgiving](https://github.com/gazijarin/itsgiving)
-* **Created:** 2026-09-08
-* **Velocity Gain:** +834 stars this week
-* **Vector Analysis:** Express yourself in meetings (with memes, of course).
+### 3. [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor)
+* **Created:** 2026-09-11
+* **Velocity Gain:** +815 stars this week
+* **Vector Analysis:** Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.
+
+### 4. [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer)
+* **Created:** 2026-09-12
+* **Velocity Gain:** +780 stars this week
+* **Vector Analysis:** Official Project Page for Recurrent Looped Transformer (RLT)
+
+### 5. [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool)
+* **Created:** 2026-09-10
+* **Velocity Gain:** +703 stars this week
+* **Vector Analysis:** IDM激活与状态维护工具
 
 ---
 
@@ -34,13 +34,13 @@
 
 The bleeding edge is moving faster than ever.
 
-Anomalous velocity spike detected on GitHub this week: openai/NavierStokesAndEuler just pulled +1878 stars in days.
+Anomalous velocity spike detected on GitHub this week: Chuloo/mural just pulled +943 stars in days.
 
-What it is: Lean certificates accompanying Navier-Stokes and Euler results
+What it is: The language app you eventually delete. A native iPhone companion for learning through conversation.
 
 Why it matters: While everyone is looking at last year's tech stacks, early-stage infrastructure is shifting toward zero-dependency, highly portable execution layers.
 
-Source: https://github.com/openai/NavierStokesAndEuler
+Source: https://github.com/Chuloo/mural
 
 #AI #TechTrends #SoftwareEngineering #BuildInPublic
 ---
