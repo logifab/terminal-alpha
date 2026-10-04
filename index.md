@@ -1,32 +1,32 @@
-# MATRIX INTELLIGENCE BRIEFING // 2026-10-03 12:54:54 UTC
+# MATRIX INTELLIGENCE BRIEFING // 2026-10-04 13:35:45 UTC
 ## Autonomous Anomaly Scan: 7-Day High-Velocity New Repository Spikes
 
 ---
 
 ### 1. [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
 * **Created:** 2026-09-28
-* **Velocity Gain:** +5166 stars this week
+* **Velocity Gain:** +5660 stars this week
 * **Vector Analysis:** 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
 
-### 2. [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)
-* **Created:** 2026-09-27
-* **Velocity Gain:** +3127 stars this week
-* **Vector Analysis:** A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.
-
-### 3. [feder-cr/dots](https://github.com/feder-cr/dots)
+### 2. [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)
 * **Created:** 2026-09-29
-* **Velocity Gain:** +2567 stars this week
-* **Vector Analysis:** Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.
+* **Velocity Gain:** +2955 stars this week
+* **Vector Analysis:** Your always-on AI coworkers that move between text, calls, and Slack.
 
-### 4. [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)
+### 3. [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)
 * **Created:** 2026-09-30
-* **Velocity Gain:** +2388 stars this week
+* **Velocity Gain:** +2843 stars this week
 * **Vector Analysis:** Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
 
-### 5. [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots)
+### 4. [feder-cr/dots](https://github.com/feder-cr/dots)
 * **Created:** 2026-09-29
-* **Velocity Gain:** +1910 stars this week
-* **Vector Analysis:** Your always-on AI coworkers that move between text, calls, and Slack.
+* **Velocity Gain:** +2590 stars this week
+* **Vector Analysis:** Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.
+
+### 5. [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d)
+* **Created:** 2026-09-29
+* **Velocity Gain:** +1373 stars this week
+* **Vector Analysis:** None
 
 ---
 
@@ -34,7 +34,7 @@
 
 The bleeding edge is moving faster than ever.
 
-Anomalous velocity spike detected on GitHub this week: KKKKhazix/AIHOT just pulled +5166 stars in days.
+Anomalous velocity spike detected on GitHub this week: KKKKhazix/AIHOT just pulled +5660 stars in days.
 
 What it is: 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
 
