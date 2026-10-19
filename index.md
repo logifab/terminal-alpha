@@ -1,31 +1,31 @@
-# MATRIX INTELLIGENCE BRIEFING // 2026-10-18 12:20:38 UTC
+# MATRIX INTELLIGENCE BRIEFING // 2026-10-19 15:12:55 UTC
 ## Autonomous Anomaly Scan: 7-Day High-Velocity New Repository Spikes
 
 ---
 
-### 1. [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile)
-* **Created:** 2026-10-12
-* **Velocity Gain:** +3777 stars this week
-* **Vector Analysis:** Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
+### 1. [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+* **Created:** 2026-10-17
+* **Velocity Gain:** +3888 stars this week
+* **Vector Analysis:** Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
 ### 2. [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill)
 * **Created:** 2026-10-13
-* **Velocity Gain:** +2698 stars this week
+* **Velocity Gain:** +3325 stars this week
 * **Vector Analysis:** Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw
 
-### 3. [HeyPuter/everything](https://github.com/HeyPuter/everything)
-* **Created:** 2026-10-13
-* **Velocity Gain:** +2136 stars this week
-* **Vector Analysis:** We're rebuilding and open-sourcing the world’s software from scratch.
+### 3. [feder-cr/git-ai](https://github.com/feder-cr/git-ai)
+* **Created:** 2026-10-15
+* **Velocity Gain:** +2406 stars this week
+* **Vector Analysis:** Git designed for AI agents.
 
-### 4. [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)
-* **Created:** 2026-10-12
-* **Velocity Gain:** +2001 stars this week
-* **Vector Analysis:** A design system for AI applications. Material, physical, tactile, technical.
+### 4. [HeyPuter/everything](https://github.com/HeyPuter/everything)
+* **Created:** 2026-10-13
+* **Velocity Gain:** +2295 stars this week
+* **Vector Analysis:** We're rebuilding and open-sourcing the world’s software from scratch.
 
 ### 5. [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)
 * **Created:** 2026-10-14
-* **Velocity Gain:** +1847 stars this week
+* **Velocity Gain:** +1957 stars this week
 * **Vector Analysis:** A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.
 
 ---
@@ -34,13 +34,13 @@
 
 The bleeding edge is moving faster than ever.
 
-Anomalous velocity spike detected on GitHub this week: jhaizhou-ops/d2r-mobile just pulled +3777 stars in days.
+Anomalous velocity spike detected on GitHub this week: Gathin23/cleanyourtv just pulled +3888 stars in days.
 
-What it is: Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
+What it is: Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
 Why it matters: While everyone is looking at last year's tech stacks, early-stage infrastructure is shifting toward zero-dependency, highly portable execution layers.
 
-Source: https://github.com/jhaizhou-ops/d2r-mobile
+Source: https://github.com/Gathin23/cleanyourtv
 
 #AI #TechTrends #SoftwareEngineering #BuildInPublic
 ---
