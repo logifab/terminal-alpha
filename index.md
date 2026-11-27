@@ -1,32 +1,32 @@
-# MATRIX INTELLIGENCE BRIEFING // 2026-11-26 18:00:21 UTC
+# MATRIX INTELLIGENCE BRIEFING // 2026-11-27 17:45:20 UTC
 ## Autonomous Anomaly Scan: 7-Day High-Velocity New Repository Spikes
 
 ---
 
 ### 1. [Marvisak/VIctory](https://github.com/Marvisak/VIctory)
 * **Created:** 2026-11-23
-* **Velocity Gain:** +13150 stars this week
+* **Velocity Gain:** +13711 stars this week
 * **Vector Analysis:** An attempt at running GTA VI on PC
 
-### 2. [xcl-dev/xcl](https://github.com/xcl-dev/xcl)
-* **Created:** 2026-11-20
-* **Velocity Gain:** +8541 stars this week
-* **Vector Analysis:** Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL
-
-### 3. [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)
+### 2. [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi)
 * **Created:** 2026-11-21
-* **Velocity Gain:** +5332 stars this week
+* **Velocity Gain:** +6487 stars this week
 * **Vector Analysis:** Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
 
-### 4. [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
-* **Created:** 2026-11-20
-* **Velocity Gain:** +4194 stars this week
-* **Vector Analysis:** XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
-
-### 5. [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)
+### 3. [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)
 * **Created:** 2026-11-21
-* **Velocity Gain:** +4189 stars this week
+* **Velocity Gain:** +4423 stars this week
 * **Vector Analysis:** Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
+
+### 4. [fxceless/victory-fork](https://github.com/fxceless/victory-fork)
+* **Created:** 2026-11-24
+* **Velocity Gain:** +3341 stars this week
+* **Vector Analysis:** Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.
+
+### 5. [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida)
+* **Created:** 2026-11-23
+* **Velocity Gain:** +2610 stars this week
+* **Vector Analysis:** A continuation of Leonida, the Xbox > PC port interface for GTA VI
 
 ---
 
@@ -34,7 +34,7 @@
 
 The bleeding edge is moving faster than ever.
 
-Anomalous velocity spike detected on GitHub this week: Marvisak/VIctory just pulled +13150 stars in days.
+Anomalous velocity spike detected on GitHub this week: Marvisak/VIctory just pulled +13711 stars in days.
 
 What it is: An attempt at running GTA VI on PC
 
